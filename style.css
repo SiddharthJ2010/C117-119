@@ -1,0 +1,11 @@
+#score
+{
+    float: left;
+    font-weight: 100;
+}
+
+#timer
+{
+    float: right;
+    font-weight: 100;
+}
